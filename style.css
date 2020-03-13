@@ -612,7 +612,8 @@ body {
   color: #fff;
   text-align: center;
   opacity: 0;
-  padding: 0 15px;
+  padding: 0 18px;
+  box-sizing: border-box;
 }
 .swiper-container .swiper-slide span {
   font-family: 'Roboto', sans-serif;
